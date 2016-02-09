@@ -1,0 +1,87 @@
+html{
+  background-image: url(https://media.giphy.com/media/hNVLvtD6Ljbgs/giphy.gif);
+}
+
+h1{
+  font-family: sans-serif;
+  color: red;
+  background-image: url(http://2.bp.blogspot.com/_yX_P4HAuZKk/TVDdtgyIu2I/AAAAAAAAAoI/k--K4HjxE9g/s640/UFO%252C+Sighting%252C+News%252C+Figure%252C+Mars%252C+Spirit%252C+Rover%252C+Surface%252C+PIA10214%252C+Face%252C+Faces%252C+buildings%252C+structures%252C+odd%252C+strange%252C+proof%252C+evidence%252C+NASA%252C+ET%252C+2012%252C+omni%252C+classified%252C+secret.png);
+}
+
+#one{
+  background-image: url(https://media.giphy.com/media/kqQk6MfckaIh2/giphy.gif);
+  width: 275px;
+  height: 300px;
+  border: 1px solid black;
+  float: right;
+  margin: 10px;
+}
+
+#two{
+  background-image: url(https://media.giphy.com/media/fPhW2ubRnNr2g/giphy.gif);
+  width:275px;
+  height:300px;
+  border: 1px solid black;
+float: right;
+margin: 10px;}
+
+#three{
+  background-image: url(https://media.giphy.com/media/NDrb0UEMaf03u/giphy.gif);
+  width:275px;
+  height:300px;
+  border: 1px solid red;
+  float: right;
+margin: 10px;
+}
+
+#four{
+  background-image: url(https://media.giphy.com/media/HdA9tUGsQIPq8/giphy.gif);
+  width:275px;
+  height:275px;
+  border: 1px solid red;
+  float: right;
+  border-radius: 100%;
+  margin: 25px;
+}
+
+#five{
+  background-image: url(https://media.giphy.com/media/Ga8eqr8i06Npu/giphy.gif);
+  width:275px;
+  height:275px;
+  border: 1px solid black;
+  float: right;
+  border-radius: 100%;
+}
+
+#six{
+  background-image: url(https://media.giphy.com/media/NDrb0UEMaf03u/giphy.gif);
+  width:275px;
+  height:275px;
+  border: 1px solid black;
+  float: right;
+  border-radius: 100%;
+
+}
+
+#seven{
+  background-image: url(https://media.giphy.com/media/mXubSninLT26I/giphy.gif);
+  width:275px;
+  height:275px;
+  border: 1px solid black;
+  float: right;
+  border-radius: 100%;
+}
+
+#eight{
+  background-image: url(https://media.giphy.com/media/NDrb0UEMaf03u/giphy.gif);
+  width:275px;
+  height:275px;
+  border: 1px solid black;
+  float: right;
+  border-radius: 100%;
+}
+
+}
+}
+    )
+}
